@@ -1,0 +1,2 @@
+selenium==3.14.1
+PyGithub==1.43.7
