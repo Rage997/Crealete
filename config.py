@@ -1,7 +1,7 @@
 # The path to all your projects
-path = ''
+path = "/path/to/projects/"
 
 # Your github username and password
-username = ''
-password = ''
+username = ""
+password = ""
 token = ''
