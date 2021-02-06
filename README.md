@@ -1,7 +1,6 @@
 ### Crealete
 
-A python script meant to automate the process of create and delete Github repositories
-
+Two little python scripts to create and delete github repositories from commandline.
 
 ### Installation
 
